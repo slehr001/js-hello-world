@@ -4,8 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hi mom");
+console.log("9")
+console.log ('"Nevermore"')
+console.log("1" + " person") 
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
